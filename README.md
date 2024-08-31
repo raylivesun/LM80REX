@@ -1,4 +1,4 @@
-# Lm80rex ([newlisp](https://www.newlisp.org/))
+# Lm80rex ([one-ware]("https://one-ware.com/")
 
 The provided code snippet is a C program that reverses the order of words in a given string and also reverses each word within the string. The main function prompts the user to enter a string, calls the reverseWords function to reverse the words, and then prints the reversed string.
 
@@ -34,7 +34,7 @@ Here's a breakdown of the code:
 
 This implementation effectively reverses the order of the words in the input string.
 
-# C++ Library Reference - https://www.newlisp.org/ 
+# C++ Library Reference - https://one-ware.com/ 
 ```c++
 #include <string.h>
 #include <stdio.h>
